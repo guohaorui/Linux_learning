@@ -13,3 +13,5 @@ command > /dev/null
 
 如果希望屏蔽 stdout 和 stderr，可以这样写：  
 command > /dev/null 2>&1  
+菜鸟教程很详细
+http://www.runoob.com/linux/linux-shell-io-redirections.html  
